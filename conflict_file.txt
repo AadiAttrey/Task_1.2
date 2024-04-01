@@ -1,0 +1,2 @@
+This the conflict file created to study the concept of MERGE AND RESOLVE CONFLICTS
+this file is made in the branch1 while the other file was made in the main branch
