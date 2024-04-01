@@ -1,0 +1,1 @@
+This the conflict file created to study the concept of MERGE AND RESOLVE CONFLICTS
